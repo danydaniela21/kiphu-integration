@@ -12,5 +12,3 @@ La integración fue realizada mediante llamadas a la API.
 
 Gracias por la oportunidad.  
 Cualquier duda, feliz de comentarlo en la entrevista 🙂
-
-Daniela Durán
